@@ -1,0 +1,5 @@
+{
+  "name": "Ludo Joy",
+  "description": "Real-money Ludo gaming app with iOS style design, real-time bets, and secure wallet system.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
